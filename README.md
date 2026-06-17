@@ -24,16 +24,24 @@ SEEED STUDIO GROVE BASE FOR XIAO
 
 Combing the components:
 
+
 MPU6050	-> ESP32-C6
+
 VCC	-> 3.3V
+
 GND	-> GND
+
 SCL ->	GPIO20
+
 SDA  ->	GPIO19
 
+
 The Grove Base has extra pins to connect the Pkcell LP503562 to it.
+
 The ESP32C6 fits on top of the Base without needing any soldering.
 
 Should look like this in the end:
+
 <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/7db79295-8bca-459f-a123-27a816ff2c05" />
 
 ---
